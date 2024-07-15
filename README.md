@@ -52,11 +52,13 @@ To make it easier to use the password manager script, you can set up aliases and
     - In 'nano, press 'CTRL + X', then 'Y', and 'Enter'.
 
 4. **Reload the shell configuration**:
-    For 'zsh':
+    - For 'zsh':
+
     ```bash
     source ~/.zshrc
 
-    For 'bash':
+    - For 'bash':
+   
     ```bash
     source ~/.bashrc
 
