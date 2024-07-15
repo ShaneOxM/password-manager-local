@@ -31,11 +31,11 @@ To make it easier to use the password manager script, you can set up aliases and
    - For `zsh` (default on macOS), open `~/.zshrc`:
      ```bash
      nano ~/.zshrc
-     ```
+     
    - For `bash`, open `~/.bashrc`:
      ```bash
      nano ~/.bashrc
-     ```
+    
 
 2. **Add the following configurations**:
    Copy and paste the following lines into your shell configuration file:
