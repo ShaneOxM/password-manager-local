@@ -56,6 +56,7 @@ To make it easier to use the password manager script, you can set up aliases and
 
     ```bash
     source ~/.zshrc
+    ```
 
     - For 'bash':
    
